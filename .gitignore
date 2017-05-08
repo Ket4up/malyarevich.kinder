@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 malyarevich.kinder.zip
 node_modules/
+=======
+.idea/
+node_modules/
+.git/
+>>>>>>> a84fe27f7388d8d876aca8232aaf52108fc87212
